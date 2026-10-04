@@ -42,6 +42,7 @@ SaaS Apis
 -   [TextRazor](https://www.textrazor.com)
 -   [MeaningCloud](https://www.meaningcloud.com)
 -   [Rosette](https://www.rosette.com)
+-   [Palatine Speech](https://speech.palatine.ru/) - Speech-to-text and speaker diarization API for audio/video transcription with timestamps, streaming recognition, and SRT/VTT subtitle export ([API docs](https://docs.speech.palatine.ru/)).
 
 
 Finite State Toolkits and Regular Expressions
